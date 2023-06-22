@@ -1,0 +1,49 @@
+.backToTop{
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    opacity: 0;
+    font-size: 40px;
+    visibility: hidden;
+    color: orangered;
+}
+.showBtn{
+    opacity: 1;
+    cursor: pointer;
+    visibility: visible;
+    transition: all .5s;
+    right: 25px;
+    bottom: 25px;
+    position: fixed;
+}
+
+.pagination {
+    margin-left: 608px;
+    margin-top: 80px;
+    font-size: 30px;
+    padding: 30px;
+}
+
+
+.table img{
+    width: 40%;
+}
+.table i{
+    font-size: 30px;
+    /* margin-top: 50px; */
+    margin-left: 20px;
+}
+.table .card-title{
+    text-align: center !important;
+    color: black;
+    margin-top: 100px !important;
+    font-size: 20px;
+    font-weight: 800;
+}
+.fa-regular { 
+    cursor: pointer;
+}
+.btnnnns .BuyNow{
+   background-color: black !important;
+   margin-left: 730px !important;
+}
