@@ -1,0 +1,600 @@
+{
+  "header": {
+    "wlecomeText": "مرحبا بكم في بيتزا ومطعم الوجبات السريعة",
+    "linkes": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://instagram.com"
+    ],
+    "icon": [
+      "fa-brands fa-facebook-f",
+      "fa-brands fa-twitter",
+      "fa-brands fa-linkedin-in",
+      "fa-brands fa-instagram"
+    ],
+    "login": "تسجيل الدخول"
+  },
+  "login": {
+    "log": "سجل",
+    "login": "تسجيل الدخول",
+    "logOut": "تسجيل خروج",
+    "Registration": "تسجيل",
+    "EnterEmail": "أدخل البريد الإلكتروني",
+    "EnterPass": "أدخل كلمة المرور",
+    "EnterName": "أدخل اسمك",
+    "add": "اضف",
+    "Successful": "عملية ناجحة"
+  },
+  "navbar": {
+    "links": {
+      "home": "الصفحه الرئيسية",
+      "menu": "قائمة طعام",
+      "about": "معلومات عنا",
+      "shop": "المتجر",
+      "pages": "الصفحات",
+      "blog": "مدونة",
+      "contactUs": "اتصل بنا"
+    },
+    "another": {
+      "home": {
+        "one": "الصفحة الرئيسية للمطعم",
+        "two": "الصفحة الرئيسية للوجبات السريعة",
+        "three": "بيتزا و برجر"
+      },
+      "menu": {
+        "one": "قائمة الوجبات السريعة",
+        "two": "قائمة طعام المطعم"
+      },
+      "shop": {
+        "one": "المتجر",
+        "two": "تفاصيل المتجر",
+        "three": "عربة التسوق",
+        "four": " الدفع"
+      },
+      "pages": {
+        "one": "طهاة",
+        "two": "الشهادات - التوصيات",
+        "three": "التعليمات "
+      }
+    }
+  },
+  "homepage": {
+    "slideText": [
+      {
+        "img": "img/hero_bg_1_1-1536x640.jpg",
+        "titleSlide": "نحن نقدم المذاق كما تحب",
+        "btnOrder": "اطلب الان",
+        "def": "أغذية",
+        "menu": "قائمة التصفح"
+      },
+      {
+        "img": "img/hero_bg_1_2-1536x640.jpg",
+        "titleSlide": "أنت دائمًا مثل مذاقنا السريع",
+        "btnOrder": "اطلب الان",
+        "def": "أغذية",
+        "menu": "قائمة التصفح"
+      },
+      {
+        "img": "img/hero_bg_1_3.jpg",
+        "titleSlide": "نحن نقدم أفضل سلوك ولذيذ",
+        "btnOrder": "اطلب الان",
+        "def": "أغذية",
+        "menu": "قائمة التصفح"
+      }
+    ]
+  },
+  "aboutUS": {
+    "card": [
+      {
+        "icon": "fa-solid fa-hand-holding-dollar icon_food",
+        "cardTitle": "قسيمة الخصم",
+        "cardDes": " تنسيق مخطط متكامل بكفاءة للإنشاء السريع."
+      },
+      {
+        "icon": "fa-solid fa-burger icon_food",
+        "cardTitle": "أغذية صحية طازجة",
+        "cardDes": "نسق مخططًا متكاملًا لالتقاطه بسرعة .."
+      },
+      {
+        "icon": "fa-solid fa-pizza-slice icon_food",
+        "cardTitle": "خدمة سريعة على الطاولة",
+        "cardDes": "منسق مانسيكاتيلا مخطط متكامل للحصاد بسرعة."
+      }
+    ],
+    "aboutTitle": "معلومات عنا",
+    "reel": "طعام لذيذ حقيقي مباشرة",
+    "sp_table": "الجدول الخاص بك",
+    "aboutComment": "تصوّر بحزم بنى عالية المردود بعد الخدمة التفاعلية. التعاون بين السبورة البيضاء ورأس المال الفكري الوبائي بدون قنوات عبر الأنظمة الأساسية.",
+    "phMarks": [
+      "أطعمة لذيذة وصحية",
+      "منطقة عائلية وأطفال خاصة",
+      "أفضل الأسعار والعروض",
+      "مصنوع من مكونات طازجة",
+      "موسيقى ومرافق أخرى"
+    ]
+  },
+  "chooseUs": {
+    "headSp": "لماذا أخترتنا",
+    "head__main": "نصنع أفضل غذاء في منطقتنا",
+    "main__sp": "مطعم",
+    "head_des": "تصوّر بحزم بنى عالية المردود بعد الخدمة التفاعلية. تعاونية السبورة البيضاء رأس المال الفكري دون قنوات عبر الأنظمة الأساسية.",
+    "choose__service": [
+      {
+        "icon": "fa-solid fa-burger",
+        "beffet": "خدمة البوفيه",
+        "unleash": "أطلق العنان لبوابات قاعدة العملاء بشكل مميز بعد المعلومات عبر النظام الأساسي "
+      },
+      {
+        "icon": "fa-solid fa-stopwatch-20",
+        "beffet": "طبخ وسارف أسرع",
+        "unleash": "أطلق العنان لبوابات قاعدة العملاء بشكل مميز بعد المعلومات عبر النظام الأساسي"
+      }
+    ],
+    "choose__btn": "قائمة التصفح",
+    "openvideo": "كيف تعمل"
+  },
+  "popular": {
+    "pop__title": "أطباق شعبية",
+    "pop__Head": "أطباق شعبية",
+    "sell__shop": "بيع كل المنتجات",
+    "btnFliter": [
+      "جميع الفئات",
+      "لحم",
+      "برجر",
+      "معكرونة",
+      "فرخة",
+      "ايس كريم",
+      "يشرب"
+    ],
+    "popularCard": [
+      {
+        "id": 0,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "لحم",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "عدد غير محدود من الدجاج المقلي",
+        "newPrice": 53.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 1,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_02.png",
+        "nameFliter": "يشرب",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 53.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 2,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_03.png",
+        "nameFliter": "برجر",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "دبل ستاك برغر",
+        "newPrice": 33.0,
+        "oldPrice": 45.0,
+        "new": true,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 3,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_04.png",
+        "nameFliter": "معكرونة",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "الصينية الشعبية ندلوس",
+        "newPrice": 13.0,
+        "oldPrice": 17.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 4,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_05.png",
+        "nameFliter": "فرخة",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "دجاج كامل غير محدود",
+        "newPrice": 66.0,
+        "oldPrice": 77.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 5,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_06.png",
+        "nameFliter": "ايس كريم",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 53.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      }
+    ]
+  },
+  "Footer": {
+    "headFooter": "أخبار الاشتراك في وقت لاحق",
+    "submitFoot": "إشترك الآن",
+    "footHeadH3": "عن فرودباز",
+    "footOpeningH4": "ساعات العمل",
+    "footOpeningph": "الاثنين - السبت(8:00 - 6:00)",
+    "footOpeningSpan": " الأحد - مغلق",
+    "footContectUS": "اتصل بنا",
+    "item__title": [
+      {
+        "span": "عنوان:",
+        "Text": "8638 أماريكا سترانفود ميلبون ستار"
+      },
+      {
+        "span": "بريد:",
+        "Text": "support@example.com"
+      },
+      {
+        "span": "هاتف:",
+        "Text": "+7464 0187 3535 645"
+      },
+      {
+        "span": "معرف الفاكس:",
+        "Text": "+9 659459 49594"
+      }
+    ],
+    "HeadLinks": "الروابط",
+    "linksFoot": [
+      {
+        "name": "الصفحه الرئيسية",
+        "path": "index.html"
+      },
+      {
+        "name": "معلومات عنا",
+        "path": "about.html"
+      },
+      {
+        "name": "أخبار",
+        "path": "#"
+      },
+      {
+        "name": "محل",
+        "path": "shop.html"
+      },
+      {
+        "name": "التعليمات",
+        "path": "#"
+      },
+      {
+        "name": "اتصال",
+        "path": "contect.html"
+      }
+    ],
+    "footBlogText": "المدونة الأخيرة",
+    "theBest": [
+      {
+        "img": "img/img_01.jpg",
+        "head": "أفضل رائحة لأطباق قهوة أمريكانو",
+        "span": "30 ديسمبر - 2021"
+      },
+      {
+        "img": "img/img_02.jpg",
+        "head": "أفضل رائحة لأطباق قهوة أمريكانو",
+        "span": "30 ديسمبر - 2021"
+      }
+    ]
+  },
+  "shopPage": {
+    "next": "التالي",
+    "prev": "السابق",
+    "ShearchHere": "ابحث هنا",
+    "CATEGORIES": "فئات",
+    "PRICEFILTER": "مرشح السعر",
+    "btnAll": "جميع الفئات",
+    "sortpage": "صفحة النمط ",
+    "btnFliterShop": [
+      {
+        "name": "جميع الفئات",
+        "icon": "fa-solid fa-house "
+      },
+      {
+        "name": "برجر",
+        "icon": "fa-solid fa-burger"
+      },
+      {
+        "name": "بيتزا",
+        "icon": "fa-solid fa-pizza-slice"
+      },
+      {
+        "name": "فرخة",
+        "icon": "fa-solid fa-drumstick-bite"
+      },
+      {
+        "name": "لحم",
+        "icon": "fa-solid fa-cow"
+      },
+      {
+        "name": "ايس كريم",
+        "icon": "fa-solid fa-ice-cream"
+      },
+      {
+        "name": "وخصم جديد",
+        "icon": "fa-solid fa-tag"
+      }
+    ],
+    "ShopCards": [
+      {
+        "id": 0,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "لحم",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "عدد غير محدود من الدجاج المقلي",
+        "newPrice": 50.0,
+        "oldPrice": 75.0,
+        "new": true,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 1,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_02.png",
+        "nameFliter": "ايس كريم",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 20.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 2,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_03.png",
+        "nameFliter": "برجر",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "دبل ستاك برغر",
+        "newPrice": 30.0,
+        "oldPrice": 45.0,
+        "new": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 3,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_04.png",
+        "nameFliter": "فرخة",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "الصينية الشعبية ندلوس",
+        "newPrice": 13.0,
+        "oldPrice": 17.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 4,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_05.png",
+        "nameFliter": "بيتزا",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "دجاج كامل غير محدود",
+        "newPrice": 60.0,
+        "oldPrice": 77.0,
+        "new": true,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 5,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_06.png",
+        "nameFliter": "بيتزا",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 51.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 6,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_08.png",
+        "nameFliter": "فرخة",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 50.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 7,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_09.png",
+        "nameFliter": "لحم",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 40.0,
+        "oldPrice": 75.0,
+        "new": true,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 8,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_09.png",
+        "nameFliter": "برجر",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 10.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 9,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_06.png",
+        "nameFliter": "لحم",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 30.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 10,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_05.png",
+        "nameFliter": "ايس كريم",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 40.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 11,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_04.png",
+        "nameFliter": "برجر",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 79.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 12,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_03.png",
+        "nameFliter": "ايس كريم",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 90.0,
+        "oldPrice": 150.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 13,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "فرخة",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 100.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 14,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "بيتزا",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "البنغلاديشي السندريون",
+        "newPrice": 100.0,
+        "oldPrice": 175.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      }
+    ]
+  },
+  "ShopCart": {
+    "id": "بطاقة تعريف",
+    "Prodect": "منتج",
+    "Category": "فئة",
+    "price": "سعر",
+    "QUANTITY": "كمية",
+    "SUBTOTAL": "المجموع الفرعي",
+    "Delete": "يمسح",
+    "totalVarieties": "مجموع الأصناف:",
+    "totalprodect": "إجمالي المنتج :",
+    "totalprice": "السعر الكلي :",
+    "CheckOut": "الدفع",
+    "ClearCart": "مسح السلة",
+    "Emtpy": "عربة التسوق الخاصة بك فارغة الذهاب للتسوق",
+    "goShopping": "لنذهب للتسوق"
+  },
+  "check": {
+    "Payment": "Payment Method",
+    "Cash": "Cash on Delivery",
+    "Paypal": "Paypal",
+    "first": "first Name",
+    "Last": "Last Name",
+    "Location": "Location city",
+    "coupon": "coupon Code"
+  }
+}

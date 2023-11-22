@@ -1,0 +1,142 @@
+.second__home {
+    background-image: url(../img/breadcumb-bg.jpg);
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: #e7e7e7;
+}
+
+.declear__page {
+    padding: 180px 0;
+    color: var(--text_color);
+}
+
+.name__page {
+    font-size: 60px;
+    color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 13px;
+    font-family: var(--font-two);
+}
+
+.link__page {
+    color: #fff;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.linkSp {
+    color: #ff8e28;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.bigpayment {
+    padding: 20px;
+    margin: 50px 0;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+}
+
+.payment h1 {
+    font-size: 24px;
+    font-weight: 700;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    font-family: var(--font-two);
+}
+
+label {
+    padding: 10px 0px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #1e1d23;
+}
+
+input {
+    accent-color: red;
+
+}
+
+.LabelData {
+    display: block;
+    color: #9999a4;
+}
+
+.inpData {
+    border-radius: 5px;
+    width: 90%;
+    background-color: #fff;
+}
+
+.inpData::placeholder {
+    text-transform: capitalize;
+}
+
+.data__Check {
+    max-width: 500px;
+    margin: 40px 0;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+
+.total {
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 700;
+    border-bottom: 2px solid var(--bg-selection);
+    border-left: 2px solid var(--bg-selection);
+    border-top: 2px dashed var(--bg-selection);
+    border-right: 2px dashed var(--bg-selection);
+    max-width: 90%;
+    background-color: #fff;
+
+}
+
+.RemoveAll {
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    background-color: var(--bg-selection);
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    margin: 0 10px 0 0;
+}
+
+.inpData.error {
+    -webkit-animation-name: shake;
+    animation-name: shake;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    border: 2px solid red;
+}
+
+@keyframes shake {
+
+    0%,
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+
+    10%,
+    30%,
+    50%,
+    70%,
+    90% {
+        -webkit-transform: translate3d(-5px, 0, 0);
+        transform: translate3d(-5px, 0, 0);
+    }
+
+    20%,
+    40%,
+    60%,
+    80% {
+        -webkit-transform: translate3d(5px, 0, 0);
+        transform: translate3d(5px, 0, 0);
+    }
+}

@@ -1,0 +1,598 @@
+{
+  "header": {
+    "wlecomeText": "Welcome to Pizzer Fast Foods & Restaurant",
+    "linkes": [
+      "https://facebook.com",
+      "https://twitter.com",
+      "https://linkedin.com",
+      "https://instagram.com"
+    ],
+    "icon": [
+      "fa-brands fa-facebook-f",
+      "fa-brands fa-twitter",
+      "fa-brands fa-linkedin-in",
+      "fa-brands fa-instagram"
+    ],
+    "login": "Login"
+  },
+  "login": {
+    "log": "log",
+    "login": "login ",
+    "logOut": " log Out",
+    "Registration": "Registration",
+    "EnterEmail": "Enter Email",
+    "EnterPass": "Enter YourPassword",
+    "EnterName": "Enter Your Name",
+    "add": "add",
+    "Successful": "Successful Operation"
+  },
+  "navbar": {
+    "links": {
+      "home": "Home",
+      "menu": "menu",
+      "about": "about",
+      "shop": "shop",
+      "pages": "pages",
+      "blog": "blog",
+      "contactUs": "contact Us"
+    },
+    "another": {
+      "home": {
+        "one": "Restaurant Home",
+        "two": "Fast Food Home",
+        "three": "Pizza & Burger"
+      },
+      "menu": {
+        "one": "Fast Food Menu",
+        "two": "Restaurant Food Menu"
+      },
+      "shop": {
+        "one": "Shop",
+        "two": "Wishlist",
+        "three": "Cart",
+        "four": "Check out"
+      },
+      "pages": {
+        "one": "Chefs",
+        "two": "Testimonials",
+        "three": "Faq"
+      }
+    }
+  },
+  "homepage": {
+    "slideText": [
+      {
+        "img": "img/hero_bg_1_1-1536x640.jpg",
+        "titleSlide": "WE SERVE THE TASTE, AS YOU LIKE",
+        "btnOrder": "Order Now",
+        "def": "Foods",
+        "menu": "Browse Menu"
+      },
+      {
+        "img": "img/hero_bg_1_2-1536x640.jpg",
+        "titleSlide": "YOU ALWAYS LIKE TASTE, OF OUR FAST",
+        "btnOrder": "Order Now",
+        "def": "Foods",
+        "menu": "Browse Menu"
+      },
+      {
+        "img": "img/hero_bg_1_3.jpg",
+        "titleSlide": "WE PROVIDE BEST BEHAVIOUR AND YUMMY",
+        "btnOrder": "Order Now",
+        "def": "Foods",
+        "menu": "Browse Menu"
+      }
+    ]
+  },
+  "aboutUS": {
+    "card": [
+      {
+        "icon": "fa-solid fa-hand-holding-dollar icon_food",
+        "cardTitle": "Discount Voucher",
+        "cardDes": " Competently orchestrate integrated schema for quickly create."
+      },
+      {
+        "icon": "fa-solid fa-burger icon_food",
+        "cardTitle": "Fresh Healthy Foods",
+        "cardDes": "Quantimanes orchestrate integrated schema for quickly Taken.."
+      },
+      {
+        "icon": "fa-solid fa-pizza-slice icon_food",
+        "cardTitle": "Fast Serve On Table",
+        "cardDes": "Mansikatils orchestrate integrated schema for quickly Harbest."
+      }
+    ],
+    "aboutTitle": "About Us",
+    "reel": "Real Delicious Food Straight To",
+    "sp_table": "Your Table",
+    "aboutComment": "Assertively envisioneer high-payoff architectures after interactive service. Collaboratively whiteboard pandemicintellectual capital without cross-platform channels.",
+    "phMarks": [
+      "Delicious & Healthy Foods",
+      "Spacific Family & Kids Zone",
+      "Best Price & Offers",
+      "Made By Fresh Ingredients",
+      "Music & Other Facilities"
+    ]
+  },
+  "chooseUs": {
+    "headSp": "Why Choose Us",
+    "head__main": "We Make The Best Food In Our",
+    "main__sp": "Restaurant",
+    "head_des": "Assertively envisioneer high-payoff architectures after interactive service. Collaboratively whiteboard pandemi cintellectual capital without cross-platform channels.",
+    "choose__service": [
+      {
+        "icon": "fa-solid fa-burger",
+        "beffet": "Buffet Service",
+        "unleash": "Distinctively unleash client-base portals after cross platform information."
+      },
+      {
+        "icon": "fa-solid fa-stopwatch-20",
+        "beffet": "Cook & Sarve Faster",
+        "unleash": "Distinctively unleash client-base portals after cross platform information."
+      }
+    ],
+    "choose__btn": "Browse Menu",
+    "openvideo": "How It Works"
+  },
+  "popular": {
+    "pop__title": "Popular dishes",
+    "pop__Head": "POPULAR DISHES",
+    "sell__shop": "SELL ALL PRODUCT",
+    "btnFliter": [
+      "all categories",
+      "beef",
+      "Burger",
+      "pasta",
+      "Chicken",
+      "Ice Cream",
+      "Drink"
+    ],
+    "popularCard": [  
+      {
+        "id": 0,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "beef",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "UNLIMITED CHICKEN FRY",
+        "newPrice": 53.0,
+        "oldPrice": 75.0, 
+        "new": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 1,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_02.png",
+        "nameFliter": "Drink",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 53.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 2,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_03.png",
+        "nameFliter": "Burger",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "DOUBLE STUCK BURGAR",
+        "newPrice": 33.0,
+        "oldPrice": 45.0,
+        "new": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 3,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_04.png",
+        "nameFliter": "pasta",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "CHINIS POPULAR NOUDLUS",
+        "newPrice": 13.0,
+        "oldPrice": 17.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 4,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_05.png",
+        "nameFliter": "CHICKEN",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "UNLIMITED FULL CHICKEN",
+        "newPrice": 66.0,
+        "oldPrice": 77.0,
+        "new": true,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 5,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_06.png",
+        "nameFliter": "Ice Cream",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 53.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      }
+    ]
+  },
+  "Footer": {
+    "headFooter": "SUBSCRIBE NEWS LATTER",
+    "submitFoot": "Subscribe Now",
+    "footHeadH3": "ABOUT FRUDBAZ",
+    "footOpeningH4": "OPENING HOURS",
+    "footOpeningph": "Mon - Sat (8:00 - 6:00)",
+    "footOpeningSpan": " Sunday - Closed",
+    "footContectUS": "CONTACT US",
+    "item__title": [
+      {
+        "span": "ADDRESS:",
+        "Text": "8638 Amarica Stranfod Mailbon Star"
+      },
+      {
+        "span": "MAIL:",
+        "Text": "support@example.com"
+      },
+      {
+        "span": "PHONE:",
+        "Text": "+7464 0187 3535 645"
+      },
+      {
+        "span": "FAX ID:",
+        "Text": "+9 659459 49594"
+      }
+    ],
+    "HeadLinks": "LINKS",
+    "linksFoot": [
+      {
+        "name": "Home",
+        "path": "index.html"
+      },
+      {
+        "name": "About",
+        "path": "about.html"
+      },
+      {
+        "name": "News",
+        "path": "#"
+      },
+      {
+        "name": "Shop",
+        "path": "shop.html"
+      },
+      {
+        "name": "Faq",
+        "path": "#"
+      },
+      {
+        "name": "Contact",
+        "path": "contect.html"
+      }
+    ],
+    "footBlogText": "RECENT BLOG",
+    "theBest": [
+      {
+        "img": "img/img_01.jpg",
+        "head": "Best Smell of Americano Coffee Trins",
+        "span": "DECEMBER 30 - 2021"
+      },
+      {
+        "img": "img/img_02.jpg",
+        "head": "Best Smell of Americano Coffee Trins",
+        "span": "DECEMBER 30 - 2021"
+      }
+    ]
+  },
+  "ShopCart": {
+    "id": "id",
+    "Prodect": "Prodect",
+    "Category": "Category",
+    "price": "price",
+    "QUANTITY": "QUANTITY",
+    "SUBTOTAL": "SUBTOTAL",
+    "Delete": "Delete",
+    "totalVarieties": "total varieties :",
+    "totalprodect": "total prodect :",
+    "totalprice": "total price :",
+    "CheckOut": "Check Out",
+    "ClearCart": "Clear Cart",
+    "Emtpy": "Your Cart Is empty Go To Shop",
+    "goShopping": "Let's go Shopping"
+  },
+  "shopPage": {
+    "next": "next",
+    "prev": "prev",
+    "ShearchHere": "Shearch Here",
+    "CATEGORIES": "CATEGORIES",
+    "PRICEFILTER": "PRICE FILTER",
+    "btnAll": "all categories",
+    "sortpage": "style page ",
+    "btnFliterShop": [
+      {
+        "name": "all categories",
+        "icon": "fa-solid fa-house "
+      },
+      {
+        "name": "Burger",
+        "icon": "fa-solid fa-burger"
+      },
+      {
+        "name": "pizza",
+        "icon": "fa-solid fa-pizza-slice"
+      },
+      {
+        "name": "Chicken",
+        "icon": "fa-solid fa-drumstick-bite"
+      },
+      {
+        "name": "beef",
+        "icon": "fa-solid fa-cow"
+      },
+      {
+        "name": "Ice cream",
+        "icon": "fa-solid fa-ice-cream"
+      },
+      {
+        "name": "new & discount",
+        "icon": "fa-solid fa-tag"
+      }
+    ],
+    "ShopCards": [
+      {
+        "id": 0,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "beef",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "UNLIMITED CHICKEN FRY",
+        "newPrice": 50.0,
+        "oldPrice": 75.0,
+        "new": true,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 1,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_02.png",
+        "nameFliter": "Ice cream",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 20.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 2,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_03.png",
+        "nameFliter": "Burger",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "DOUBLE STUCK BURGAR",
+        "newPrice": 30.0,
+        "oldPrice": 45.0,
+        "new": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 3,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_04.png",
+        "nameFliter": "Chicken",
+        "rate": "5",
+        "star": "fa-solid fa-star",
+        "pop__desc": "CHINIS POPULAR NOUDLUS",
+        "newPrice": 13.0,
+        "oldPrice": 17.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 4,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_05.png",
+        "nameFliter": "pizza",
+        "rate": "3",
+        "star": "fa-solid fa-star",
+        "pop__desc": "UNLIMITED FULL CHICKEN",
+        "newPrice": 60.0,
+        "oldPrice": 77.0,
+        "new": true,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 5,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_06.png",
+        "nameFliter": "pizza",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 51.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 6,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_08.png",
+        "nameFliter": "Chicken",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 50.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 7,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_09.png",
+        "nameFliter": "beef",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 40.0,
+        "oldPrice": 75.0,
+        "new": true,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 8,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_09.png",
+        "nameFliter": "Burger",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 10.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": true,
+        "QUANTITY": 1
+      },
+      {
+        "id": 9,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_06.png",
+        "nameFliter": "beef",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 30.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 10,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_05.png",
+        "nameFliter": "Ice Cream",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 40.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 11,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_04.png",
+        "nameFliter": "Burger",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 79.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 12,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_03.png",
+        "nameFliter": "Ice Cream",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 90.0,
+        "oldPrice": 150.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 13,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "Chicken",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 100.0,
+        "oldPrice": 75.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      },
+      {
+        "id": 14,
+        "iconShopping": "fa-solid fa-cart-shopping",
+        "iconHeart": "fa-regular fa-heart",
+        "img": "img/img_01.png",
+        "nameFliter": "pizza",
+        "rate": "4",
+        "star": "fa-solid fa-star",
+        "pop__desc": "BANGLADESHI SENDRUES",
+        "newPrice": 100.0,
+        "oldPrice": 175.0,
+        "new": false,
+        "dic": false,
+        "QUANTITY": 1
+      }
+    ]
+  },
+  "check": {
+    "Payment": "Payment Method",
+    "Cash": "Cash on Delivery",
+    "Paypal": "Paypal",
+    "first": "first Name",
+    "Last": "Last Name",
+    "Location": "Location city",
+    "coupon": "coupon Code"
+  }
+}
